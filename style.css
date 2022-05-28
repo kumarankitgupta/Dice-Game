@@ -1,0 +1,27 @@
+body{
+    background-color: #C2DED1;
+    overflow-x: hidden;
+    text-align: center;
+}
+#head{
+    font-size: 100px; 
+    text-align:center;
+    font-family: 'Lobster', cursive;
+    color: green;
+    font-weight: bolder;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+img{
+    width: 70%;
+}
+
+#play{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+#set{
+    margin-left: 25%;
+    margin-right: 25%;
+}
